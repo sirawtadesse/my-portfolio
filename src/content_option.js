@@ -1,7 +1,7 @@
 const logotext = "SIRAW";
 const meta = {
     title: "Siraw Tadesse",
-    description: "I’m Siraw Tadesse and i am 4th year information system student at AAU",
+    description: "I’m Siraw Tadesse and i am a recent graduate in information system from Addis Ababa University",
 };
 
 const introdata = {
@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "I’m Siraw Tadesse and 4th year information system student at AAU.",
+    aboutme: "I’m Siraw Tadesse and a recent graduate in information system from Addis Ababa University.",
 };
 const worktimeline = [{
         jobtitle: "project for class",
@@ -37,23 +37,23 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Python-django, Java, PHP-laravel",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "HTML CSS JS, Nextjs",
         value: 85,
     },
     {
-        name: "Javascript",
+        name: "Network Configuration, information system security",
         value: 80,
     },
     {
-        name: "React",
+        name: "Data Analysis",
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "Mysql",
         value: 85,
     },
 ];
