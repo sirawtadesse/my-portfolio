@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I am interested in networking",
+        third: "I am interested in computer networking",
     },
     description: "Throughout my studies, i have probably been exposed to various topics such as database management, programming, systems analysis and design, network administration, cybersecurity, and project management. These areas of study are essential for understanding how to design, develop, implement, and manage information systems within organizations.",
     your_img_url: "img/s1.jpg",
@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "I’m Siraw Tadesse and a recent graduate in information system from Addis Ababa University.",
+    aboutme: "I’m Siraw Tadesse and a recent graduate in information system from Addis Ababa University. I  have a strong foundation in various areas such as database management, programming, systems analysis and design, data analytics, and information security. I have  gained knowledge and skills in using technologies and tools to solve business problems, improve processes, and make informed decisions. As an information systems graduate , i  have explored topics such as database management, software development, web technologies, networking, cybersecurity, and project management. I  have also had the opportunity to work on team projects, collaborate with classmates, and present my  findings or solutions. As an information systems graduate , i  have explored topics such as database management, software development, web technologies, networking, cybersecurity, and project management. I  have also had the opportunity to work on team projects, collaborate with classmates, and present my  findings or solutions.",
 };
 const worktimeline = [{
         jobtitle: "project for class",
@@ -63,12 +63,12 @@ const services = [{
         description: "UI refers to the screens, buttons, toggles, icons, and other visual elements that you interact with when using a website, app, or electronic device. UX refers to the entire interaction you have with a product, including how you feel about the interaction.",
     },
     {
-        title: "networking",
-        description: "Networking is the process of making connections and building relationships. These connections can provide you with advice and contacts, which can help you make informed career decisions.",
+        title: "Computer Network Configuration",
+        description: "involves setting up the necessary parameters and settings for devices (computers, routers, switches, etc.) within a network to communicate with each other effectively.",
     },
     {
-        title: "Wordpress Design",
-        description: "WordPress is an open-source content management system (CMS) used to build websites. A 2022 study by W3 Techs indicates that 43 percent of all websites on the internet use WordPress.",
+        title: "Software Development Design",
+        description: "is the process of designing, creating, deploying, and maintaining software. It involves a series of steps, methodologies, and tools to transform an idea or requirement into a functional product or application. ",
     },
 ];
 
@@ -105,9 +105,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "http://www.github.com/sirawtadesse/",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "http://www.linkedin.com/in/siraw-tadesse-668088274",
     twitter: "https://twitter.com",
 };
 export {
